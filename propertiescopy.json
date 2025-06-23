@@ -1,0 +1,377 @@
+[
+
+  {
+    "owner": "1",
+    "name": "South Delhi Designer Apartment",
+    "type": "Apartment",
+    "description": "A modern 2-bedroom apartment in South Delhi with a fully equipped kitchen and premium furnishings. Available for monthly or short-term weekly stays.",
+    "location": {
+      "street": "A-12, Greater Kailash I",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipcode": "110048"
+    },
+    "beds": 2,
+    "baths": 2,
+    "square_feet": 1200,
+    "amenities": [
+      "WiFi",
+      "Full kitchen",
+      "Washer & Dryer",
+      "Free Parking",
+      "24/7 Security",
+      "Elevator Access",
+      "Dishwasher",
+      "Air Conditioning",
+      "Balcony",
+      "Smart TV",
+      "Coffee Maker"
+    ],
+    "rates": {
+      "weekly": 25000,
+      "monthly": 75000
+    },
+    "seller_info": {
+      "name": "Amit Sharma",
+      "email": "amit.sharma@example.com",
+      "phone": "+91-98100-12345"
+    },
+    "images": ["a1.jpg", "a2.jpg", "a3.jpg"],
+    "is_featured": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "owner": "1",
+    "name": "Mumbai Sea-view Loft",
+    "type": "Apartment",
+    "description": "A chic loft in Bandra with sea views, close to cafes and nightlife. Ideal for short stays or monthly rentals.",
+    "location": {
+      "street": "12 Carter Road",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zipcode": "400050"
+    },
+    "beds": 1,
+    "baths": 1,
+    "square_feet": 800,
+    "amenities": [
+      "WiFi",
+      "Full kitchen",
+      "Air Conditioning",
+      "Smart TV",
+      "Elevator Access",
+      "Washer & Dryer",
+      "Free Parking (on request)",
+      "Balcony with Sea View",
+      "Coffee Maker"
+    ],
+    "rates": {
+      "weekly": 30000,
+      "monthly": 90000
+    },
+    "seller_info": {
+      "name": "Riya Kapoor",
+      "email": "riya.kapoor@example.com",
+      "phone": "+91-98200-54321"
+    },
+    "images": ["b1.jpg", "b2.jpg", "b3.jpg"],
+    "is_featured": false,
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-02T00:00:00.000Z"
+  },
+  {
+    "owner": "2",
+    "name": "Bengaluru Luxury Condo",
+    "type": "Condo",
+    "description": "Luxury 3-bedroom condo in central Bengaluru, with gym and pool access. Suitable for families or executives on monthly stays.",
+    "location": {
+      "street": "40 MG Road",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zipcode": "560001"
+    },
+    "beds": 3,
+    "baths": 3,
+    "square_feet": 1800,
+    "amenities": [
+      "WiFi",
+      "Full kitchen",
+      "Washer & Dryer",
+      "Swimming Pool",
+      "Gym/Fitness Center",
+      "24/7 Security",
+      "Elevator Access",
+      "Air Conditioning",
+      "Smart TV",
+      "Coffee Maker",
+      "Housekeeping Service"
+    ],
+    "rates": {
+      "monthly": 150000
+    },
+    "seller_info": {
+      "name": "Vikram Rao",
+      "email": "vikram.rao@example.com",
+      "phone": "+91-98450-67890"
+    },
+    "images": ["c1.jpg", "c2.jpg", "c3.jpg"],
+    "is_featured": true,
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-03T00:00:00.000Z"
+  },
+  {
+    "owner": "2",
+    "name": "Goa Beach Cottage",
+    "type": "Cottage Or Cabin",
+    "description": "Cozy 1-bedroom cottage steps from the beach in North Goa. Perfect for a weekend or weekly holiday retreat.",
+    "location": {
+      "street": "C-23, Calangute Beach Road",
+      "city": "North Goa",
+      "state": "Goa",
+      "zipcode": "403516"
+    },
+    "beds": 1,
+    "baths": 1,
+    "square_feet": 600,
+    "amenities": [
+      "Beach Access",
+      "Outdoor Grill/BBQ",
+      "Balcony/Patio",
+      "WiFi",
+      "Air Conditioning",
+      "Smart TV",
+      "Coffee Maker"
+    ],
+    "rates": {
+      "weekly": 20000
+    },
+    "seller_info": {
+      "name": "Neha Fernandes",
+      "email": "neha.fernandes@example.com",
+      "phone": "+91-832-5551234"
+    },
+    "images": ["d1.jpg", "d2.jpg", "d3.jpg"],
+    "is_featured": false,
+    "createdAt": "2024-01-04T00:00:00.000Z",
+    "updatedAt": "2024-01-04T00:00:00.000Z"
+  },
+  {
+    "owner": "3",
+    "name": "Mumbai Studio near Tech Hub",
+    "type": "Studio",
+    "description": "Modern studio apartment near Powai tech parks. Ideal for working professionals needing monthly accommodation.",
+    "location": {
+      "street": "Sector 5, Hiranandani Gardens, Powai",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zipcode": "400076"
+    },
+    "beds": 1,
+    "baths": 1,
+    "square_feet": 500,
+    "amenities": [
+      "High-Speed Internet",
+      "Smart TV",
+      "Air Conditioning",
+      "Gym/Fitness Center",
+      "Elevator Access",
+      "Washer & Dryer",
+      "Coffee Maker"
+    ],
+    "rates": {
+      "monthly": 60000
+    },
+    "seller_info": {
+      "name": "Priya Mehta",
+      "email": "priya.mehta@example.com",
+      "phone": "+91-98765-43210"
+    },
+    "images": ["e1.jpg", "e2.jpg", "e3.jpg"],
+    "is_featured": true,
+    "createdAt": "2024-01-05T00:00:00.000Z",
+    "updatedAt": "2024-01-05T00:00:00.000Z"
+  },
+  {
+    "owner": "3",
+    "name": "Kerala Backwater Villa",
+    "type": "House",
+    "description": "Spacious 4-bedroom villa with private boat access on the Kerala backwaters. Ideal for weekly vacation stays.",
+    "location": {
+      "street": "Houseboat Lane, Alleppey Backwaters",
+      "city": "Alappuzha",
+      "state": "Kerala",
+      "zipcode": "688001"
+    },
+    "beds": 4,
+    "baths": 3,
+    "square_feet": 2500,
+    "amenities": [
+      "Boat Access",
+      "Swimming Pool",
+      "Balcony/Patio",
+      "WiFi",
+      "Air Conditioning",
+      "Outdoor Grill/BBQ",
+      "Smart TV",
+      "Kitchen"
+    ],
+    "rates": {
+      "weekly": 50000,
+      "monthly": 180000
+    },
+    "seller_info": {
+      "name": "Sunil Kumar",
+      "email": "sunil.kumar@example.com",
+      "phone": "+91-94470-12345"
+    },
+    "images": ["f1.jpg", "f2.jpg", "f3.jpg"],
+    "is_featured": true,
+    "createdAt": "2024-01-06T00:00:00.000Z",
+    "updatedAt": "2024-01-06T00:00:00.000Z"
+  },
+  {
+    "owner": "4",
+    "name": "Jaipur Heritage Cottage",
+    "type": "Cottage Or Cabin",
+    "description": "Experience Rajasthani heritage in this renovated cottage near the Pink City. Weekly stays available.",
+    "location": {
+      "street": "56 Amber Road",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zipcode": "302001"
+    },
+    "beds": 2,
+    "baths": 2,
+    "square_feet": 1100,
+    "amenities": [
+      "Heritage Décor",
+      "WiFi",
+      "Air Conditioning",
+      "Balcony/Patio",
+      "Smart TV",
+      "Coffee Maker"
+    ],
+    "rates": {
+      "weekly": 30000
+    },
+    "seller_info": {
+      "name": "Anjali Singh",
+      "email": "anjali.singh@example.com",
+      "phone": "+91-94140-56789"
+    },
+    "images": ["g1.jpg", "g2.jpg", "g3.jpg"],
+    "is_featured": false,
+    "createdAt": "2024-01-07T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z"
+  },
+  {
+    "owner": "5",
+    "name": "Bengaluru Tech Park Bungalow",
+    "type": "House",
+    "description": "3-bedroom bungalow near Electronic City tech parks, furnished, suitable for monthly professional stays.",
+    "location": {
+      "street": "22 Sarjapur Road",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zipcode": "560035"
+    },
+    "beds": 3,
+    "baths": 2,
+    "square_feet": 1600,
+    "amenities": [
+      "WiFi",
+      "Full kitchen",
+      "Washer & Dryer",
+      "Air Conditioning",
+      "Outdoor Garden",
+      "Smart TV",
+      "Car Parking"
+    ],
+    "rates": {
+      "monthly": 120000
+    },
+    "seller_info": {
+      "name": "Rahul Patil",
+      "email": "rahul.patil@example.com",
+      "phone": "+91-99000-12345"
+    },
+    "images": ["h1.jpg", "h2.jpg", "h3.jpg"],
+    "is_featured": false,
+    "createdAt": "2024-01-08T00:00:00.000Z",
+    "updatedAt": "2024-01-08T00:00:00.000Z"
+  },
+  {
+    "owner": "6",
+    "name": "Udaipur Lakeside Villa",
+    "type": "House",
+    "description": "Luxury villa on Lake Pichola with 4 bedrooms, ideal for a week-long holiday. Scenic views and modern amenities.",
+    "location": {
+      "street": "14 Fateh Sagar Road",
+      "city": "Udaipur",
+      "state": "Rajasthan",
+      "zipcode": "313001"
+    },
+    "beds": 4,
+    "baths": 3,
+    "square_feet": 2300,
+    "amenities": [
+      "Lake View",
+      "WiFi",
+      "Swimming Pool",
+      "Air Conditioning",
+      "Balcony",
+      "Smart TV",
+      "Kitchen",
+      "Housekeeping Service"
+    ],
+    "rates": {
+      "weekly": 60000,
+      "monthly": 200000
+    },
+    "seller_info": {
+      "name": "Pooja Mehra",
+      "email": "pooja.mehra@example.com",
+      "phone": "+91-99222-33445"
+    },
+    "images": ["i1.jpg", "i2.jpg", "i3.jpg"],
+    "is_featured": true,
+    "createdAt": "2024-01-09T00:00:00.000Z",
+    "updatedAt": "2024-01-09T00:00:00.000Z"
+  },
+  {
+    "owner": "7",
+    "name": "Kolkata Heritage Flat",
+    "type": "Apartment",
+    "description": "2-bedroom heritage flat near Park Street, Kolkata. Monthly rental with furnished interiors.",
+    "location": {
+      "street": "18 Park Street",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zipcode": "700016"
+    },
+    "beds": 2,
+    "baths": 1,
+    "square_feet": 1000,
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Smart TV",
+      "Dishwasher",
+      "Washing Machine",
+      "Coffee Maker"
+    ],
+    "rates": {
+      "monthly": 50000
+    },
+    "seller_info": {
+      "name": "Suman Roy",
+      "email": "suman.roy@example.com",
+      "phone": "+91-98300-11223"
+    },
+    "images": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "is_featured": false,
+    "createdAt": "2024-01-10T00:00:00.000Z",
+    "updatedAt": "2024-01-10T00:00:00.000Z"
+  }
+]
