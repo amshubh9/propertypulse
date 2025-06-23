@@ -7,7 +7,7 @@ import logo from "@/assets/images/logo-white.png";
 import profileDefault from "@/assets/images/profile.png";
 import { FaGoogle } from "react-icons/fa";
 import { signIn, signOut, useSession, getProviders } from "next-auth/react";
-import UnreadMessageCount from "./unreadMessageCount";
+import UnreadMessageCount from "./UnreadMessageCount";
 export default function Navbar() {
   const { data: session } = useSession();
   const profileImage = session?.user?.image;
